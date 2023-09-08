@@ -11,9 +11,12 @@ public class Demo1 {
         System.out.println("pdf");
         System.out.println("pdf");
 
-        System.out.println("txt");
-        System.out.println("txt");
-        System.out.println("txt");
+        String fileExtension = "pdf";
+        if (fileExtension.equals("txt")) {
+            System.out.println("txt");
+            System.out.println("txt");
+            System.out.println("txt");
+        }
 
         System.out.println("*");///
     }
