@@ -1,0 +1,9 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áµ’ß8ğø•¹«1
+v
+java:S3008"TRename this field "BANK_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¼œæøÿÿÿÿ8÷ø•¹«1
+R
+java:S1854"5Remove this useless assignment to local variable "a".(ÈƒÜĞ8şø•¹«1
+L	java:S106"+Replace this use of System.out by a logger.(Ğêë®ÿÿÿÿÿ8€ù•¹«1
+C
+java:S1481"&Remove this unused "a" local variable.(ÈƒÜĞ8ù•¹«1
