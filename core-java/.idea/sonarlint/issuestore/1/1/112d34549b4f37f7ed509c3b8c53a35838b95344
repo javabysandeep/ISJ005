@@ -1,23 +1,0 @@
-
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áµ’ß8ÄÎœ«1
-^
-java:S1854"<Remove this useless assignment to local variable "student5".(åÆ´âüÿÿÿÿ8ÌÎœ«1
-Y
-java:S1854"<Remove this useless assignment to local variable "student4".(Ò—‡8ÌÎœ«1
-^
-java:S1854"<Remove this useless assignment to local variable "student3".(¥¼Ø½øÿÿÿÿ8ÎÎœ«1
-Y
-java:S1854"<Remove this useless assignment to local variable "student2".(¥‘¦Ì8ÎÎœ«1
-^
-java:S1854"<Remove this useless assignment to local variable "student1".(øÛ‚øÿÿÿÿ8ÎÎœ«1
-O
-java:S1481"-Remove this unused "student1" local variable.(øÛ‚øÿÿÿÿ8ĞÎœ«1
-J
-java:S1481"-Remove this unused "student2" local variable.(¥‘¦Ì8ÑÎœ«1
-O
-java:S1481"-Remove this unused "student3" local variable.(¥¼Ø½øÿÿÿÿ8ÑÎœ«1
-J
-java:S1481"-Remove this unused "student4" local variable.(Ò—‡8ÑÎœ«1
-O
-java:S1481"-Remove this unused "student5" local variable.(åÆ´âüÿÿÿÿ8ÑÎœ«1
-]	java:S125"<This block of commented-out lines of code should be removed.(²Úıÿÿÿÿ8ÒÎœ«1

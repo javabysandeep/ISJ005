@@ -1,0 +1,10 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±«©^8ª…Ëİ¬1
+v
+java:S3008"TRename this field "BANK_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¼œæøÿÿÿÿ8­…Ëİ¬1
+[
+java:S3400"9Remove this method and declare a constant for this value.(Í•½Òûÿÿÿÿ8ÿ·Íİ¬1
+G	java:S106)"+Replace this use of System.out by a logger.(ù¤áş8Ãèİ¬1
+L	java:S106,"+Replace this use of System.out by a logger.(„ÛÁÜıÿÿÿÿ8Äèİ¬1
+G	java:S106-"+Replace this use of System.out by a logger.(ù¤áş8Åèİ¬1
+L	java:S106/"+Replace this use of System.out by a logger.(ÇôÍéøÿÿÿÿ8Æèİ¬1
