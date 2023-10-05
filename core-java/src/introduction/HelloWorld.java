@@ -9,12 +9,10 @@
  * */
 package introduction;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.*;
+import java.io.FileNotFoundException;
 
 public class HelloWorld {
-    static public void main(String[] arguments) {
-        System.out.println("Hello World");
+    static public void main(String[] arguments) throws FileNotFoundException {
+        System.out.println("hello world");
     }
 }

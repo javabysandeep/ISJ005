@@ -71,3 +71,13 @@ Z
 ,src/classComponents/constructor/Product.java,d\c\dcc51678369d1a98d6e6d9832749f63ed8fe6cca
 Z
 *src/classComponents/constructor/Movie.java,d\d\dd7e0b29652a0768a1cf348cc42bb0b618604014
+`
+0src/classComponents/thisKeyword/BankAccount.java,7\b\7ba12a3453a91bd0bd619888977d240d3f12abd4
+d
+4src/classComponents/thisKeyword/BankAccountTest.java,b\4\b4317644e4e78bf3d07839636877544b09c5a5d0
+`
+0src/classComponents/thisKeyword/ProductTest.java,7\5\754d7147ee822094e37d4b1bd58afb9db99275b4
+\
+,src/classComponents/thisKeyword/Product.java,d\1\d1df241f87a6a05676ae88c51f1123aa5c082cd1
+j
+:src/classComponents/thisKeyword/LocalInstanceVariable.java,d\0\d024273f659caa7b63f5e4d0cceeed4375f545d8
