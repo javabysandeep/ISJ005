@@ -26,5 +26,7 @@ public class LocalInnerClass {
         Local local = new Local();
         System.out.println(local.a);
         local.m1();
+
+
     }
 }

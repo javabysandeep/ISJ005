@@ -1,0 +1,7 @@
+
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(İõô£ùÿÿÿÿ8ûØú¯1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È»¼ûÿÿÿÿ8‘ûØú¯1
+J	java:S108")Either remove or fill this block of code.(İõô£ùÿÿÿÿ8ªûØú¯1
+C	java:S131""Add a default case to this switch.(İõô£ùÿÿÿÿ8«ûØú¯1
+]	java:S125"<This block of commented-out lines of code should be removed.(—Å¬Œüÿÿÿÿ8¬ûØú¯1

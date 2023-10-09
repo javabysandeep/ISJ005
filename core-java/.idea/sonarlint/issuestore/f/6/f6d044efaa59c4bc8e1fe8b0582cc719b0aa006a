@@ -1,0 +1,11 @@
+
+h
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(™Ïêƒ8Ş€Øú¯1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²•ÍÄùÿÿÿÿ8ã€Øú¯1
+G	java:S106"+Replace this use of System.out by a logger.(¬··Å8ªØú¯1
+f
+java:S3358
+"DExtract this nested ternary operation into an independent statement.(şÎ°¤ùÿÿÿÿ8±Øú¯1
+E	java:S108")Either remove or fill this block of code.(™Ïêƒ8¼Øú¯1
+>	java:S131""Add a default case to this switch.(™Ïêƒ8ÁØú¯1
+]	java:S125"<This block of commented-out lines of code should be removed.(Òñ¢—şÿÿÿÿ8ÃØú¯1

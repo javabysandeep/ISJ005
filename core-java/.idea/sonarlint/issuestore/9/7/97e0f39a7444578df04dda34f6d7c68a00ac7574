@@ -1,0 +1,14 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶¾Ñ8ĞĞú¯1
+X	java:S125"<This block of commented-out lines of code should be removed.(’ïÂù8¬Ñú¯1
+G	java:S106
+"+Replace this use of System.out by a logger.(ıÎÒ•8ŞĞú¯1
+v
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(š˜ãÉ8˜÷Ñú¯1
+X	java:S125"<This block of commented-out lines of code should be removed.(ïÉƒ8÷Ñú¯1
+L	java:S106"+Replace this use of System.out by a logger.(¦˜¥ şÿÿÿÿ8’¬Ñú¯1
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Ì‘ì–ÿÿÿÿÿ8ŒÎÓú¯1
+]	java:S125"<This block of commented-out lines of code should be removed.(–¼’ˆûÿÿÿÿ8™ÕÒú¯1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÈÈ°÷8ÎÓú¯1
+G	java:S106"+Replace this use of System.out by a logger.(¡¦†ö8÷»Õú¯1
