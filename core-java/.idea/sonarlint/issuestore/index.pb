@@ -107,11 +107,35 @@ c
 3src/controlStatements/conditional/Demo12Switch.java,d\2\d20c9608601fd1b7824c24da66402361ef304d02
 J
 src/acceptInput/Demo1.java,1\b\1bd2d8697db19b78eb461bace285261834a1d629
-P
- src/acceptInput/ThisKeyword.java,b\6\b6a6dad6170dc3d0079efadb10f1ab9302c990b0
-O
-src/acceptInput/Calculator.java,8\2\8212e5bb5a2f616e566f80dd7047f719d1f3fba4
-T
-$src/acceptInput/BillCalculation.java,2\c\2c60ac01080eccafca67ad1d537ea2d508e4089f
 Q
-!src/acceptInput/OtpGenerator.java,5\0\50bd6d07f07fc914c610cc29466fe0aad0567a65
+!src/presentation/ThisKeyword.java,6\0\60cd16cfd4d1a3f50025278f9b83e4e85b91ea27
+P
+ src/presentation/Calculator.java,7\0\70b01eeb3c8c28442559cfb56e1a8dc422c4be83
+U
+%src/presentation/BillCalculation.java,2\7\277a773ffddc87f980e978250ea315377b7560ef
+R
+"src/presentation/OtpGenerator.java,6\7\67ddb555badd6921b9ea37580d9bfbac361f6688
+e
+5src/classComponents/nestedClass/StaticNestedTest.java,0\e\0e87b69e91e4401e35ae2ceb6a07a40f165d0946
+`
+0src/classComponents/nestedClass/StaticOuter.java,3\2\32077f5fd96b0f4ab224d523775d386e0380e398
+c
+3src/classComponents/nestedClass/InnerClassTest.java,f\b\fbfc513d352938047410dc37cb10df65b1dc0758
+Z
+*src/classComponents/nestedClass/Outer.java,0\8\08919df6f93714bdc519dd1ddd708b5490310ac7
+a
+1src/classComponents/nestedClass/TestConstant.java,5\f\5f978d6d5e682705d090670cb5964b595f46039b
+]
+-src/classComponents/nestedClass/Constant.java,e\4\e45abb5c13bfe6de8c421f4117c1bdcaf5cf80c5
+V
+&src/classComponents/nestedClass/A.java,a\6\a69e1f2807a784edeb0c174bd11bd48a251c2441
+]
+-src/classComponents/accessSpecifier/p1/A.java,2\e\2e80f85b389f255829a61f6722dee961c6390c82
+]
+-src/classComponents/accessSpecifier/p2/C.java,f\4\f465d8f736a527085377ab68d26f182ade96b167
+]
+-src/classComponents/accessSpecifier/p1/B.java,a\6\a6f42c436684ae14183dfbe4db49709a83f6b96e
+T
+$src/oops/encapsulation/Employee.java,4\2\42bf21bb7d4ed49fa72fa6ad6395f2c5d7789a6f
+Q
+!src/oops/encapsulation/Demo1.java,f\5\f5ab73022d5d6d8fbdd1b2bb1ce1e1cb4a3c6682
