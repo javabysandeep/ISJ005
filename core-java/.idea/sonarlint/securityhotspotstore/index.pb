@@ -139,3 +139,11 @@ Q
 !src/oops/encapsulation/Demo1.java,f\5\f5ab73022d5d6d8fbdd1b2bb1ce1e1cb4a3c6682
 T
 $src/oops/encapsulation/Employee.java,4\2\42bf21bb7d4ed49fa72fa6ad6395f2c5d7789a6f
+S
+#src/oops/encapsulation/Product.java,0\c\0c8fc02a6965a3c02d5b09df735ca11cb6c7c9f9
+W
+'src/oops/encapsulation/ProductTest.java,8\3\83a4ad05296c3b7442a0f68b4c070baf9088d8e1
+Q
+!src/oops/encapsulation/Movie.java,d\c\dcc888cdb83e64f4f68361e47ff40dea0e26db65
+U
+%src/oops/encapsulation/MovieTest.java,c\2\c23f78fd73da747cedcd0eef8eb1f802a032dc8f
