@@ -1,0 +1,10 @@
+
+@	java:S106"+Replace this use of System.out by a logger.(û¿Ûº
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ü±¯Â²1
+G	java:S106	"+Replace this use of System.out by a logger.(à¨‰™8ß±¯Â²1
+F	java:S106"+Replace this use of System.out by a logger.(ŸÓî)8ä±¯Â²1
+W
+java:S1854"5Remove this useless assignment to local variable "r".(û¼Ñ†ýÿÿÿÿ8Ñ¤½Â²1
+H
+java:S1481"&Remove this unused "r" local variable.(û¼Ñ†ýÿÿÿÿ8Ô¤½Â²1

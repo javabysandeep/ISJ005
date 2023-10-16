@@ -1,0 +1,9 @@
+
+\
+java:S1854":Remove this useless assignment to local variable "parent".(ñË¸£øÿÿÿÿ8ºàÌÃ²1
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(î’œœ
+E	java:S106"+Replace this use of System.out by a logger.(àè•¶úÿÿÿÿ
+M
+java:S1481"+Remove this unused "parent" local variable.(ñË¸£øÿÿÿÿ8ÈàÌÃ²1
+]	java:S125"<This block of commented-out lines of code should be removed.(ö Ó®øÿÿÿÿ8ÛàÌÃ²1

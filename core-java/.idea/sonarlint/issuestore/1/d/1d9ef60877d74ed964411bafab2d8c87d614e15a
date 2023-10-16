@@ -1,0 +1,12 @@
+
+D
+java:S2387	"'"a" is the name of a field in "Parent".(þ¤«—8£½—Ä²1
+P
+java:S1117"4Rename "a" which hides the field declared at line 9.(‡«ÀZ8¨½—Ä²1
+W
+java:S1117"5Rename "b" which hides the field declared at line 10.(×˜Á ýÿÿÿÿ8©½—Ä²1
+L	java:S106"+Replace this use of System.out by a logger.(¢Üï¸úÿÿÿÿ8­½—Ä²1
+L	java:S106"+Replace this use of System.out by a logger.(¬ƒžÔøÿÿÿÿ8¯½—Ä²1
+G	java:S106"+Replace this use of System.out by a logger.(„ ’ž8°½—Ä²1
+L	java:S106"+Replace this use of System.out by a logger.(À—Úžýÿÿÿÿ8·½—Ä²1
+G	java:S106"+Replace this use of System.out by a logger.(ŽÚú·8¸½—Ä²1

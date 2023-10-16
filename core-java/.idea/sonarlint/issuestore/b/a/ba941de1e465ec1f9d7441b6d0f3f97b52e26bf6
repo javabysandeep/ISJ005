@@ -1,0 +1,7 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(î Ñõ8æ†›Â²1
+{
+java:S1171	"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8œí­Â²1
+L	java:S106
+"+Replace this use of System.out by a logger.(§ùˆŸûÿÿÿÿ8Ìù¬Â²1
+G	java:S106"+Replace this use of System.out by a logger.(°²ã…8¤í­Â²1
