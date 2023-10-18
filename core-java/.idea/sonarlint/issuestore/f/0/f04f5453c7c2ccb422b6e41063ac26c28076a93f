@@ -1,0 +1,12 @@
+
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÜÈËˆıÿÿÿÿ8¹‹˜è³1
+G	java:S106"+Replace this use of System.out by a logger.(óÉğÇ8šášè³1
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8šášè³1
+L	java:S106"+Replace this use of System.out by a logger.(šÔªÔÿÿÿÿÿ8›ášè³1
+G	java:S106"+Replace this use of System.out by a logger.(æ’äô8¾Ğ›è³1
+L	java:S106"+Replace this use of System.out by a logger.(ãàşùÿÿÿÿ8©Ëœè³1
+G	java:S106"+Replace this use of System.out by a logger.(‹‚˜8 §è³1
+G	java:S106"+Replace this use of System.out by a logger.(ûŞË8È£è³1
+G	java:S106)"+Replace this use of System.out by a logger.(…ˆå8ŒÏ²è³1
