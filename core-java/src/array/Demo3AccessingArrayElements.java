@@ -1,6 +1,6 @@
 package array;
 
-public class Demo3 {
+public class Demo3AccessingArrayElements {
     public static void main(String[] args) {
         int[] values = new int[5];
         System.out.println(values[0]);//0

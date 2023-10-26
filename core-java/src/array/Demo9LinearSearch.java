@@ -10,11 +10,11 @@ public class Demo9LinearSearch {
         for (int index = 0; index < values.length; index++) {
             if (values[index] == key) {
                 isFound1 = true;
-               // break;
+                // break;
             }
             if (values[index] == key2) {
                 isFound2 = true;
-              //  break;
+                //  break;
             }
         }
         System.out.println(isFound1 ? " key 1 found" : "key 2 not found");

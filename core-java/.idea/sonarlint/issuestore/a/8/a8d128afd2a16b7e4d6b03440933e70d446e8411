@@ -1,0 +1,27 @@
+
+W
+java:S1854":Remove this useless assignment to local variable "values".(”ÒÜ8“Î²¶1
+X
+java:S1854
+"6Remove this useless assignment to local variable "a5".(Ë±éŞşÿÿÿÿ8“Î²¶1
+X
+java:S1854	"6Remove this useless assignment to local variable "a4".(Û¿Ç¶üÿÿÿÿ8”Î²¶1
+X
+java:S1854"6Remove this useless assignment to local variable "a3".(Ó±ãÅıÿÿÿÿ8”Î²¶1
+X
+java:S1854"6Remove this useless assignment to local variable "a2".(ÁøÑËşÿÿÿÿ8”Î²¶1
+R
+java:S1854"6Remove this useless assignment to local variable "a1".(Œ¥á8”Î²¶1
+C
+java:S1481"'Remove this unused "a1" local variable.(Œ¥á8—Î²¶1
+I
+java:S1481"'Remove this unused "a2" local variable.(ÁøÑËşÿÿÿÿ8—Î²¶1
+I
+java:S1481"'Remove this unused "a3" local variable.(Ó±ãÅıÿÿÿÿ8—Î²¶1
+I
+java:S1481	"'Remove this unused "a4" local variable.(Û¿Ç¶üÿÿÿÿ8—Î²¶1
+I
+java:S1481
+"'Remove this unused "a5" local variable.(Ë±éŞşÿÿÿÿ8˜Î²¶1
+H
+java:S1481"+Remove this unused "values" local variable.(”ÒÜ8˜Î²¶1

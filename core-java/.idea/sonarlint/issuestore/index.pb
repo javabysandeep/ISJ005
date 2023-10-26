@@ -267,3 +267,27 @@ b
 .src/oops/java8Features/lambdaExpression/C.java,1\2\124170ab272ea3033437449717688951d8801f0c
 ^
 .src/oops/java8Features/lambdaExpression/D.java,f\3\f3c1092104daf2242477190dc5310e57038516ee
+a
+1src/oops/java8Features/methodReference/Demo1.java,d\5\d5fcfe3145412dcd421b25f0e6992873f75d5e2d
+d
+4src/oops/java8Features/methodReference/Addition.java,9\a\9af0f98b71066bd9819faf342d522aeeac144e83
+a
+1src/oops/java8Features/methodReference/Demo2.java,8\3\8330f2b90ec43a3ee19bef0f3baf65cb9160417b
+D
+src/array/Demo1.java,a\8\a8d128afd2a16b7e4d6b03440933e70d446e8411
+D
+src/array/Demo2.java,b\3\b3484abebbf8a6bc49bd0bfe35038146c98070c3
+D
+src/array/Demo3.java,6\a\6afb2edfc00be2f643f237ef24210f1a055e4657
+K
+src/array/Demo6Reverse.java,c\6\c6e1f58400c91422cde66ed3967da4bb4fd53823
+D
+src/array/Demo5.java,1\5\15da615fc5824a374c8d3bd18acf2f242980d1f2
+D
+src/array/Demo4.java,b\8\b84c771e05fdb1208419ac1d783663d67514f1e7
+P
+ src/array/Demo9LinearSearch.java,9\6\96bfec6341bc13c489dd8c53ca16e77585a5373c
+U
+%src/array/Demo8EvenArrayElements.java,3\b\3bfdcc23b0612d536074cab2aa448f2116a4f44f
+V
+&src/array/Demo7SumOfArrayElements.java,4\b\4b8a740e214c646d03d7ee213f7590a7d65998ff
