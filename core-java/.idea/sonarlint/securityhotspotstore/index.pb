@@ -277,14 +277,6 @@ D
 src/array/Demo1.java,a\8\a8d128afd2a16b7e4d6b03440933e70d446e8411
 D
 src/array/Demo2.java,b\3\b3484abebbf8a6bc49bd0bfe35038146c98070c3
-D
-src/array/Demo3.java,6\a\6afb2edfc00be2f643f237ef24210f1a055e4657
-D
-src/array/Demo4.java,b\8\b84c771e05fdb1208419ac1d783663d67514f1e7
-D
-src/array/Demo5.java,1\5\15da615fc5824a374c8d3bd18acf2f242980d1f2
-K
-src/array/Demo6Reverse.java,c\6\c6e1f58400c91422cde66ed3967da4bb4fd53823
 V
 &src/array/Demo7SumOfArrayElements.java,4\b\4b8a740e214c646d03d7ee213f7590a7d65998ff
 U
