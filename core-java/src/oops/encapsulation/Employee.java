@@ -5,6 +5,7 @@ public class Employee {
     private String employeeName;
     private int employeeAge;
     private int employeeSalary;
+    static String companyName = "IBM";
 
     //all args constructor
     public Employee(int employeeId, String employeeName, int employeeAge, int employeeSalary) {

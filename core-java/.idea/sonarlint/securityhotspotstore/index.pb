@@ -283,3 +283,25 @@ U
 %src/array/Demo8EvenArrayElements.java,3\b\3bfdcc23b0612d536074cab2aa448f2116a4f44f
 P
  src/array/Demo9LinearSearch.java,9\6\96bfec6341bc13c489dd8c53ca16e77585a5373c
+E
+src/array/Demo19.java,a\8\a8bd786634c53fac13439ea805b4e1df7db8661a
+Z
+*src/array/Demo20CharacterArrayReverse.java,3\f\3f488c2831e694bdbe8b5d26a103927f01e91fe2
+]
+-src/array/Demo21CharacterArrayPalindrome.java,1\3\13cb205291361bc8c41af74bf912b34eacc6a080
+W
+'src/array/Demo22ArrayEqualityCheck.java,9\d\9d4e377375c57e19142d00bb12405c8e47c8d980
+J
+src/array/Demo23Merge.java,7\3\733f6e408a83da6cc24128c125e81c1453dd00ae
+R
+"src/array/Demo24ContainsDigit.java,7\6\767a5c5ba97c698066c61e04454694a0d6e3296d
+P
+ src/array/Demo25ToUpperCase.java,9\5\9564e4f4e2e9e7b353b38fbd2ba16d39b25a539d
+P
+ src/array/Demo26ToLowerCase.java,1\9\19ca7aa7c44471205ed078fbffaf36d81d554caf
+U
+%src/array/Demo27ReplaceCharacter.java,e\a\ea9202631dde6fa0ab1ec47e9ee4dea9fe440093
+M
+src/array/Demo28SubArray.java,5\3\53c800dee57f0e7d800ef00e71a14f2d1853cead
+I
+src/array/Components.java,9\5\95858a00e56a4a2485a14669c79ee9ba93afc8bf

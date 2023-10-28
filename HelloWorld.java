@@ -1,15 +1,9 @@
 public class HelloWorld {
-
-	public static void main(String[] arguments){
-
-		printHello();
-	}
-
-	public static void printHello(){
+	
+	public static void main(String[] args) {
 		
 		System.out.println("Hello World");
 
 	}
-
 
 }
