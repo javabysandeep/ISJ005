@@ -1,0 +1,7 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì‹‡âøÿÿÿÿ8ÏÀ€§·1
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8æÀ€§·1
+\	java:S899	"@Do something with the "boolean" value returned by "setWritable".(ØÕÏí8‘Á€§·1
+F	java:S106
+"+Replace this use of System.out by a logger.(“ßš$8¡Á€§·1

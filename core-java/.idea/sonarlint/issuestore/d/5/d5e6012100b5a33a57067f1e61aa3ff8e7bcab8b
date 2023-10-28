@@ -1,0 +1,8 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì‹‡âøÿÿÿÿ8žÎ·§·1
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8µÎ·§·1
+T
+java:S1611
+"2Remove the parentheses around the "file" parameter(ÉÏã§ýÿÿÿÿ8ºÎ·§·1
+G	java:S106"+Replace this use of System.out by a logger.(Ð¿òå8ÅÎ·§·1
