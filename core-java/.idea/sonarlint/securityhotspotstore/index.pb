@@ -357,3 +357,19 @@ a
 1src/fileHandling/Demo23ObjectDeSerialization.java,a\0\a07ebcc28d72d4a5a372aef9c5c7c1f1f229eb80
 M
 src/fileHandling/Student.java,1\3\13e7e0c03f169939577c9b7c26d286cb9f774822
+O
+src/stringHandling/Student.java,e\4\e40d727d765762b80a487cdc5626b37240c3de5b
+_
+/src/stringHandling/Demo1WaysToCreateObject.java,3\f\3fa5d1c6a718125b7b7798eeeefe86d8c25e4816
+Y
+)src/stringHandling/Demo2LiteralvsNew.java,f\4\f4588e2d6b09990330b47734b1247a6bb33bf73b
+U
+%src/stringHandling/ImmutableTest.java,b\5\b598f3e690df42815d55426d0ff88661cf43cbb2
+F
+src/objectClass/A.java,4\6\467d33b64095e8343fa7f8d445697e79b356a33e
+R
+"src/objectClass/Demo1GetClass.java,c\2\c22338a4b7bf185cd07970939361c054389d0ecc
+L
+src/objectClass/Student.java,f\2\f2b8f058b873ec992aa2e84cbcc789d55802df64
+V
+&src/objectClass/Demo2EqualsMethod.java,d\e\ded117e170b3448b7613f4cebeef327313fb5bc9

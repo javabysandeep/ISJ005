@@ -1,0 +1,36 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê¥í±úÿÿÿÿ
+S
+java:S1854
+"6Remove this useless assignment to local variable "s6".(—ñÈê8Ñ´Öÿ·1
+X
+java:S1854	"6Remove this useless assignment to local variable "s5".(Ò¼·Şùÿÿÿÿ8Ê×ÿ·1
+X
+java:S1854"6Remove this useless assignment to local variable "s4".(´Æò‡ùÿÿÿÿ8Ò´Öÿ·1
+X
+java:S1854"6Remove this useless assignment to local variable "s3".(«şøáûÿÿÿÿ8Ò´Öÿ·1
+S
+java:S1854"6Remove this useless assignment to local variable "s2".(ŸŞ‰8Ó´Öÿ·1
+S
+java:S1854"6Remove this useless assignment to local variable "s1".(ëõŸÅ8Ó´Öÿ·1
+=
+java:S2129" Remove this "String" constructor(ëõŸÅ8ã´Öÿ·1
+D
+java:S1481"'Remove this unused "s1" local variable.(ëõŸÅ8÷´Öÿ·1
+=
+java:S2129" Remove this "String" constructor(ŸŞ‰8ù´Öÿ·1
+D
+java:S1481"'Remove this unused "s2" local variable.(ŸŞ‰8†µÖÿ·1
+B
+java:S2129" Remove this "String" constructor(«şøáûÿÿÿÿ8ŠµÖÿ·1
+I
+java:S1481"'Remove this unused "s3" local variable.(«şøáûÿÿÿÿ8ŒµÖÿ·1
+B
+java:S2129" Remove this "String" constructor(´Æò‡ùÿÿÿÿ8µÖÿ·1
+I
+java:S1481"'Remove this unused "s4" local variable.(´Æò‡ùÿÿÿÿ8µÖÿ·1
+I
+java:S1481	"'Remove this unused "s5" local variable.(Ò¼·Şùÿÿÿÿ8’µÖÿ·1
+D
+java:S1481
+"'Remove this unused "s6" local variable.(—ñÈê8Õ×ÿ·1
