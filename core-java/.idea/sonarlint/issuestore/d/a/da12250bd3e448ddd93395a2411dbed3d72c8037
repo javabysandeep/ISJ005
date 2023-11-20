@@ -1,0 +1,7 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê¥í±úÿÿÿÿ8÷Çß¾1
+F	java:S106"+Replace this use of System.out by a logger.(Ä Y8£‡Çß¾1
+b
+java:S1858"F"str" is already a string, there's no need to call "toString()" on it.(Ä Y8úáÌß¾1
+L	java:S106	"+Replace this use of System.out by a logger.(ôêï‚ÿÿÿÿÿ8¦ûÉß¾1
+L	java:S106"+Replace this use of System.out by a logger.(ñÊ˜åøÿÿÿÿ8êÔÒß¾1

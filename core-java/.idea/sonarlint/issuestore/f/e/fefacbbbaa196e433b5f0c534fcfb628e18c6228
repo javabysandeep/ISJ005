@@ -1,0 +1,15 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éº†1
+X
+java:S1854";Remove this useless assignment to local variable "student".(¹ãÊ²8å§Áû¸1
+]
+java:S1854";Remove this useless assignment to local variable "student".(§…ù¼ùÿÿÿÿ8å§Áû¸1
+J
+java:S1113"-Do not override the Object.finalize() method.(Èêúÿ8ß§Íû¸1
+C
+java:S1174"&Make this finalize() method protected.(Èêúÿ8ß§Íû¸1
+F	java:S106"+Replace this use of System.out by a logger.(»¬èj8î§Íû¸1
+N
+java:S1481",Remove this unused "student" local variable.(§…ù¼ùÿÿÿÿ8é§Áû¸1
+q
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8ŒèÒû¸1

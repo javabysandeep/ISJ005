@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê¥í±úÿÿÿÿ
+<
+java:S2129" Remove this "String" constructor(º¤Ð[8üÓº»½1
+B
+java:S2129" Remove this "String" constructor(Þï–ßúÿÿÿÿ8–°»»½1
+L	java:S106"+Replace this use of System.out by a logger.(Ã’ÚÏúÿÿÿÿ8ÎÁ»½1
+i
+java:S1858"G"str1" is already a string, there's no need to call "toString()" on it.(Ã’ÚÏúÿÿÿÿ8½óÁ»½1
+F	java:S106"+Replace this use of System.out by a logger.(âùÏ=8„ÎÁ»½1

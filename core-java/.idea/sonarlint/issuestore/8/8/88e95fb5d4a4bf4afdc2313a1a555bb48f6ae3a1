@@ -1,0 +1,20 @@
+
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(—±ÿé8Ü¥şß¾1
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ú ë¿8åîƒà¾1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê¥í±úÿÿÿÿ8šôß¾1
+L	java:S106"+Replace this use of System.out by a logger.(üÆä¢ıÿÿÿÿ8šôß¾1
+F	java:S106"+Replace this use of System.out by a logger.(âùÏ=8 šôß¾1
+G	java:S106"+Replace this use of System.out by a logger.(ÎàŸ»8ğ˜úß¾1
+=
+java:S2129" Remove this "String" constructor(ëõŸÅ8ù¥şß¾1
+G	java:S106"+Replace this use of System.out by a logger.(—±ÿé8û¥şß¾1
+G	java:S106"+Replace this use of System.out by a logger.(ú ë¿8ˆïƒà¾1
+G	java:S106"+Replace this use of System.out by a logger.(©‹°ú8ªğ†à¾1
+G	java:S106"+Replace this use of System.out by a logger.(™ÅÉí8­ğ†à¾1
+L	java:S106"+Replace this use of System.out by a logger.(™Ñ×ûÿÿÿÿ8¯ğ†à¾1
+L	java:S106"+Replace this use of System.out by a logger.(¼‚¥öÿÿÿÿÿ8ô÷‰à¾1
+L	java:S106 "+Replace this use of System.out by a logger.(îš·ÿÿÿÿÿ8á‹à¾1
+L	java:S106""+Replace this use of System.out by a logger.(Æë¬³úÿÿÿÿ8Ñˆà¾1
+L	java:S106&"+Replace this use of System.out by a logger.(¶ƒºùúÿÿÿÿ8Ì‚’à¾1

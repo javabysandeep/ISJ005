@@ -1,0 +1,16 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éº†18šÙ÷û¸1
+m
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(’ÜÇÞ8ÀÙ÷û¸1
+<
+java:S2097"Add a type test to this method.(’ÜÇÞ8ÌÙ÷û¸1
+p
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë8ÖÙ÷û¸1
+G	java:S106+"+Replace this use of System.out by a logger.(±îÈÇ8äÙ÷û¸1
+L	java:S106,"+Replace this use of System.out by a logger.(ÁÀœÂÿÿÿÿÿ8óÙ÷û¸1
+G	java:S106-"+Replace this use of System.out by a logger.(ã®—×8ƒÚ÷û¸1
+b
+java:S1764-"ECorrect one of the identical sub-expressions on both sides of equals.(ã®—×8…Ú÷û¸1
+F	java:S106."+Replace this use of System.out by a logger.(Ôá‰y8‡Ú÷û¸1
+–
+java:S2159."zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(Ôá‰y8ˆÚ÷û¸1
