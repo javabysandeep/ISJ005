@@ -349,8 +349,6 @@ f
 6src/fileHandling/Demo19PerformanceCheckFileWriter.java,a\e\ae7b3611bf8b99da9cb672b49279adb41493999a
 Z
 *src/fileHandling/Demo21FileContenCopy.java,f\5\f542a2720e4251b7a9d7f72f450a2a08cb671d73
-7
-abc.txt,0\6\060e4b697d1846e3a7bec5a486b38a177b0542d4
 _
 /src/fileHandling/Demo22ObjectSerialization.java,c\3\c338fadee287090c5fe8686a5d6f2eaf75fcbbd6
 a
@@ -429,3 +427,33 @@ N
 src/stringHandling/Demo16.java,9\4\949107c294e01627ee18f2db71bbbb8cb8147f09
 N
 src/stringHandling/Demo17.java,f\4\f4ed6bceddfa1287fd8b1bd26a5470c3db4ad49c
+P
+ src/exceptionHandling/Demo2.java,1\6\1657ed8e9d026ba12899d81c433919f4849c01f9
+P
+ src/exceptionHandling/Demo6.java,7\1\712fb9ca8f9485d19db4507603791cd6e3b550e7
+P
+ src/exceptionHandling/Demo5.java,6\6\660ba1da58e7f8e5c3d812903e58f4cdf3c0c12f
+P
+ src/exceptionHandling/Demo4.java,e\d\edb68d289eaf1e3ac07e0e03e4694a2eebd34264
+P
+ src/exceptionHandling/Demo3.java,5\2\52c392a823ffc266388e86ba8d27e89cac33a192
+P
+ src/exceptionHandling/Demo1.java,d\e\deb03244705d4774deee065b767cc734ba6e6059
+P
+ src/exceptionHandling/Demo7.java,0\1\014136868d3ef2c79837bd55b3c4e91abdb177b2
+P
+ src/exceptionHandling/Demo8.java,a\6\a61f257c2b454e37bb67f1f09e5545db11a016cd
+P
+ src/exceptionHandling/Demo9.java,f\3\f3e96957aef9087a537c65e91f1a80ea8dd20128
+Q
+!src/exceptionHandling/Demo10.java,6\9\69ef44aa35bfdf379c5b807dc801143207820aa4
+Q
+!src/exceptionHandling/Demo13.java,f\2\f238f23ccd9e3f656361ee394ea717be099bfc24
+Q
+!src/exceptionHandling/Demo14.java,a\d\adb8c6d80d5d6f930dfda7908c0d492438c46dd0
+Q
+!src/exceptionHandling/Demo12.java,6\4\6457d257b00faaa34d805ecb31d4d58cbf3fce8c
+Q
+!src/exceptionHandling/Demo11.java,b\6\b600885facb76c6ae8bf10f232a5117aa2880b01
+Q
+!src/exceptionHandling/Demo15.java,a\f\afb537a074ade05fb7eebe322714f95669fd041e
