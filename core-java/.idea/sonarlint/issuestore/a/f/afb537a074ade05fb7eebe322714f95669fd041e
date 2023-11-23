@@ -1,4 +1,13 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šçü©üÿÿÿÿ
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8üå›‹¿1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šçü©üÿÿÿÿ8İ“œ²¿1
+c
+java:S2259"AA "NullPointerException" could be thrown; "str" is nullable here.(±“‰¿üÿÿÿÿ8Öõ³²¿1
+B
+java:S1181"%Catch Exception instead of Throwable.(ëß‹™8«Ø¢²¿1
+L	java:S106"+Replace this use of System.out by a logger.(ÆÉØøÿÿÿÿ8›•œ²¿1
+L	java:S106"+Replace this use of System.out by a logger.(±“‰¿üÿÿÿÿ8²•œ²¿1
+G	java:S106
+"+Replace this use of System.out by a logger.(îüá 8Ê¼ ²¿1
+L	java:S106"+Replace this use of System.out by a logger.(âçºàúÿÿÿÿ8“¡­²¿1
+L	java:S106"+Replace this use of System.out by a logger.(äÂ‚şÿÿÿÿ8Ùø®²¿1
+G	java:S106"+Replace this use of System.out by a logger.(øæ§í8úõ³²¿1
