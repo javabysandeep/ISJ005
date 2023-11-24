@@ -1,4 +1,4 @@
-package collectionFramework;
+package collectionFramework.introduction;
 
 public class Demo2 {
     public static void main(String[] args) {

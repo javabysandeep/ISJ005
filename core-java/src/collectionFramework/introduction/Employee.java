@@ -1,4 +1,4 @@
-package collectionFramework;
+package collectionFramework.introduction;
 
 public class Employee {
     private int employeeId;
