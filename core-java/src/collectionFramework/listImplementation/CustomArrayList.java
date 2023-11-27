@@ -1,11 +1,11 @@
 package collectionFramework.listImplementation;
 
-public class ArrayList {
+public class CustomArrayList {
     Object[] values;
     int size = 0;
     int capacity = 10;
 
-    ArrayList() {
+    CustomArrayList() {
         values = new Object[capacity];
     }
 
