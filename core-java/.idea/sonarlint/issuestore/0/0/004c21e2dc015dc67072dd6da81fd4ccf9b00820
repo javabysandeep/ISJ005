@@ -1,0 +1,22 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(„öÅÍûÿÿÿÿ8Òğı€Á1
+Q
+java:S3740"/Provide the parametrized type for this generic.(„öÅÍûÿÿÿÿ8Óğı€Á1
+L
+java:S3740"/Provide the parametrized type for this generic.(¯ü–ı8¨Ñ…Á1
+L
+java:S3740"/Provide the parametrized type for this generic.(¯ü–ı8¨Ñ…Á1
+L
+java:S3740 "/Provide the parametrized type for this generic.(‘‹àÌ8§ÙÁ1
+L
+java:S3740 "/Provide the parametrized type for this generic.(‘‹àÌ8¨ÙÁ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ıìÈ8Øğı€Á1
+[
+java:S1854 ">Remove this useless assignment to local variable "arrayList3".(‘‹àÌ8¹ÙÁ1
+L	java:S106"+Replace this use of System.out by a logger.(ëÊĞüÿÿÿÿÿ8’„€Á1
+G	java:S106"+Replace this use of System.out by a logger.(î§†‰8ªù…Á1
+G	java:S106"+Replace this use of System.out by a logger.(¹ôËÁ8Üø‡Á1
+L	java:S106"+Replace this use of System.out by a logger.(×ÑïÒüÿÿÿÿ8ğ¥‰Á1
+L
+java:S1481 "/Remove this unused "arrayList3" local variable.(‘‹àÌ8ÄÙÁ1
