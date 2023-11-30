@@ -12,7 +12,7 @@ public class Demo13CustomObjectSorting {
         Employee employee4 = new Employee(43, "Rohit", 234000);
         Employee employee5 = new Employee(5, "Virat", 90000);
 
-        List<Employee> employeeList = new ArrayList<>();
+        ArrayList<Employee> employeeList = new ArrayList<>();
         employeeList.add(employee1);
         employeeList.add(employee2);
         employeeList.add(employee3);

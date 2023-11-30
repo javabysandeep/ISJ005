@@ -2,7 +2,7 @@ package collectionFramework.listImplementation;
 
 import java.util.*;
 
-public class Demo14CustomSortingComparator {
+public class Demo15CustomSortingComparator {
     public static void main(String[] args) {
         Emp emp1 = new Emp(11, "Ganesh", 5490);
         Emp emp2 = new Emp(2, "Abhishek", 67880);
@@ -10,7 +10,7 @@ public class Demo14CustomSortingComparator {
         Emp emp4 = new Emp(43, "Rohit", 234000);
         Emp emp5 = new Emp(5, "Virat", 90000);
 
-        List<Emp> empList = new Vector<>();
+        LinkedList<Emp> empList = new LinkedList<>();
         empList.add(emp1);
         empList.add(emp2);
         empList.add(emp3);

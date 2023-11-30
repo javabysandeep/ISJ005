@@ -7,7 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="lombok-1.18.28" level="project" />
+    <orderEntry type="library" name="lombok-1.18.30" level="project" />
   </component>
   <component name="SonarLintModuleSettings">
     <option name="uniqueId" value="ed71a2e7-a6df-4cdf-b551-4f19642e7ee2" />

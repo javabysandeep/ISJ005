@@ -525,3 +525,17 @@ v
 Fsrc/collectionFramework/listImplementation/Demo9RetrivalOperation.java,7\3\7355de73729c21b17f07df70364352ddfacb0914
 w
 Gsrc/collectionFramework/listImplementation/Demo10RetrivalOperation.java,b\d\bdca407245a5351fc27c99efe48f0eb4b6c54b4a
+u
+Esrc/collectionFramework/listImplementation/Demo11SortingIntegers.java,5\6\56da0135ad1e0aebab71883b5767db9a0a461fa6
+t
+Dsrc/collectionFramework/listImplementation/Demo12SortingStrings.java,b\7\b7b08d19640e787ed876731ceb3ff04312c51d87
+h
+8src/collectionFramework/listImplementation/Employee.java,4\f\4f058514bb77bde4f3ac35d13acb48260f7a26e3
+m
+=src/collectionFramework/listImplementation/EmpComparator.java,a\2\a260a694227cf6775089cf166746cfbe227c62e4
+y
+Isrc/collectionFramework/listImplementation/Demo13CustomObjectSorting.java,6\b\6badd42acf733bf5d76920ded7c578db6c1c5df9
+c
+3src/collectionFramework/listImplementation/Emp.java,9\e\9e9b339c3272dd783d973214a4a8ae6c50f0cb28
+}
+Msrc/collectionFramework/listImplementation/Demo14CustomSortingComparator.java,e\0\e04ab3be4f3b7c56cb8b290981098aab28111409

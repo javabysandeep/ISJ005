@@ -1,0 +1,8 @@
+
+Q
+java:S3740	"/Provide the parametrized type for this generic.(øæ„¢þÿÿÿÿ8Ë‰ÏªÁ1
+Q
+java:S3740	"/Provide the parametrized type for this generic.(øæ„¢þÿÿÿÿ8Í‰ÏªÁ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ýìÈ8Ð‰ÏªÁ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¨º´‹8ïëÕªÁ1
+L	java:S106"+Replace this use of System.out by a logger.(ëÊÐüÿÿÿÿÿ8Ç—ÔªÁ1
