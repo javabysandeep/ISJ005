@@ -1,0 +1,12 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(ş¯¥ıÿÿÿÿ8ÎÍÍıÁ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(ş¯¥ıÿÿÿÿ8ÏÍÍıÁ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ıìÈ8ÒÍÍıÁ1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ş¯¥ıÿÿÿÿ8ÙÍÍıÁ1
+G	java:S106"+Replace this use of System.out by a logger.(ÊØ¡Œ8ÏıÁ1
+L	java:S106"+Replace this use of System.out by a logger.(„©¢úÿÿÿÿ8¡¨ĞıÁ1
+G	java:S106"+Replace this use of System.out by a logger.(˜õíÕ8ÏñÑıÁ1
+L	java:S106"+Replace this use of System.out by a logger.(„©¢úÿÿÿÿ8ÏñÑıÁ1

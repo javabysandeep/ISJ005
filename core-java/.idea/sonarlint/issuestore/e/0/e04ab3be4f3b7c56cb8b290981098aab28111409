@@ -1,6 +1,8 @@
 
 D
-java:S1604"(Make this anonymous inner class a lambda(ƒäÕ)8œµæ«Á1
+java:S1604"(Make this anonymous inner class a lambda(ƒäÕ)8œµæ«Á1
 v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ıìÈ8µæ«Á1
-X	java:S125"<This block of commented-out lines of code should be removed.(¤İ®¿8µµæ«Á1
-L	java:S106 "+Replace this use of System.out by a logger.(†—ÏÌûÿÿÿÿ8ºµæ«Á1
+‡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(•·’Õûÿÿÿÿ8Ô›àüÁ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¤İ®¿8µµæ«Á1
+L	java:S106"+Replace this use of System.out by a logger.(†—ÏÌûÿÿÿÿ8ºµæ«Á1

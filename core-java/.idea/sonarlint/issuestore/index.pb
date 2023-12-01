@@ -539,3 +539,17 @@ m
 =src/collectionFramework/listImplementation/EmpComparator.java,a\2\a260a694227cf6775089cf166746cfbe227c62e4
 }
 Msrc/collectionFramework/listImplementation/Demo14CustomSortingComparator.java,e\0\e04ab3be4f3b7c56cb8b290981098aab28111409
+f
+6src/collectionFramework/listImplementation/Course.java,3\f\3f10d47e364095d7cb1576530fbe8eb2e35386a7
+|
+Lsrc/collectionFramework/listImplementation/CourseSortingUsingComparable.java,a\a\aaf1c62b4f6fc36b7f8f264086101ba9c106eb77
+}
+Msrc/collectionFramework/listImplementation/CourseSortingUsingComparator2.java,3\f\3f9fdc7229f73931008ed4f0a96b4f736b8c3a20
+|
+Lsrc/collectionFramework/listImplementation/CourseSortingUsingComparator.java,b\1\b126945972b9e355d52f0f5c7ff6484132eadcaf
+}
+Msrc/collectionFramework/listImplementation/Demo15CustomSortingComparator.java,2\a\2a8d5f29f2b048708def96274baa1c2f52365e67
+k
+;src/collectionFramework/listImplementation/Demo17Stack.java,8\7\878c412e237872e659346809eddb28b1ce9f65c0
+k
+;src/collectionFramework/listImplementation/Demo16Stack.java,5\5\55f700b121b3053e9a7d58c0131d2b2e6f46ce6b
