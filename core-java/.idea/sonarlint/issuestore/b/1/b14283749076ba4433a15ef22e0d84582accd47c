@@ -1,0 +1,5 @@
+
+l
+java:S1192	"JDefine a constant instead of duplicating this literal "Hrishkesh" 3 times.(¢ØªÝûÿÿÿÿ8ËÐ¡¦Â1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÞÂšúÿÿÿÿ8Ã¸¡¦Â1
+G	java:S106"+Replace this use of System.out by a logger.(Ï°šØ8Ù¸¡¦Â1
