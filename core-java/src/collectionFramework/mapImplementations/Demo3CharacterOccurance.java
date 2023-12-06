@@ -14,6 +14,8 @@ public class Demo3CharacterOccurance {
                 hashMap.put(ch, 1);
             }
         }
+//        int i;
+        //SOP(I);
         System.out.println(hashMap);
     }
 }
