@@ -58,4 +58,14 @@ public class StudentDao {
     }
 
 
+    public void deleteStudent(String id) {
+        Connection connection = ConnectionUtil.getConnection();
+        try {
+            Statement statement = connection.createStatement();
+            String sql = "delete from student where id=" + id;
+            statement.executeUpdate(sql);
+        } catch (SQLException e) {
+            System.out.println("issue in executing the query");
+        }
+    }
 }

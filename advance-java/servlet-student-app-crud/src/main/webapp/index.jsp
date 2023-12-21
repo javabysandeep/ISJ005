@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Student Management App</h2>
-<form action="students">
+<form action="studentsCrud" method="post">
     <table>
         <tr>
             <td>Enter Student ID</td>

@@ -1,7 +1,6 @@
 package controller;
 
 import jakarta.servlet.*;
-import jakarta.servlet.annotation.WebServlet;
 import model.Student;
 import service.StudentService;
 
@@ -9,7 +8,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.List;
 
-@WebServlet("/students")
+//@WebServlet("/students")
 public class StudentController implements Servlet {
     @Override
     public void init(ServletConfig servletConfig) throws ServletException {
