@@ -11,6 +11,10 @@ import java.time.LocalDateTime;
 
 @WebServlet("/read")
 public class CookieReaderController extends HttpServlet {
+
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         PrintWriter writer = resp.getWriter();
