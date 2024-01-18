@@ -1,8 +1,0 @@
-public class Namskar {
-
-	public static void main(String []arguments) {
-
-		System.out.println("Namskar Java");
-	}	
-
-}
