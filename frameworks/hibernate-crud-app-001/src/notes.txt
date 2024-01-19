@@ -1,0 +1,113 @@
+CRUD on single object
+
+hibernate inheritance
+1. single table strategy [Table per hierarchy]
+    - in this strategy, a single table will be created which will have fields from all of the classes
+    - in this one extra column will be added to specify the type of object saved in the table
+    - discriminator column is added. we can customize its name by using
+        - @DiscriminatorColumn()
+    - e.g.
+        class Parent {
+            int a;
+            int b;
+            int c
+        }
+
+        class A extends Parent {
+            int d;
+            int e;
+        }
+
+        class B extends Parent {
+            int f;
+            int g;
+        }
+        ------------- objects -----------------
+
+        Parent parent = new Parent(1,2,3);
+        A a = new A(11,22);
+        B b = new B(100, 200);
+
+
+        table
+        -----------------------------
+        a   b   c   d   e   f   g
+        -----------------------------
+        1   2   3   n   n   n   n
+        n   n   n   11 22   n   n
+        n   n   n   n   n   100 200
+
+
+    - In single table strategy, we annotate parent class with @Inheritance(strategy=) and provide the strategy
+    - We annotate parent class with @DiscriminatorColumn to specify the identifying column name
+    - we also annotate Parent class with @DiscriminatorValue to insert in the record
+    - we annotate the child classes with @DiscriminatorValue and specify the name
+        - if we dont write, Dtype value will be equal to classname
+
+    - Drawback of Single table strategy
+        - only one table is created which is not normalized.
+        - lot of null value insertion
+        - data projection is difficult due to null values
+
+2. table per class strategy
+    - to enable this strategy, we annotate parent class with @Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)
+    - in this strategy, for every class in the hierarchy, a separate table will be created
+    - in each table, there will be parent class and child class fields.
+    - Each table is independent of other tables
+    - drawback :
+        - all the parent class fields will be present each of the child class table
+        - it is not that normalized table.
+
+
+3. Joined table strategy
+    - in this strategy, table will be created for each class in the hierarchy
+    - Parent and Child will be joined together using foreign key.
+    - Child table will have child fields and foreign key referencing to parent table
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

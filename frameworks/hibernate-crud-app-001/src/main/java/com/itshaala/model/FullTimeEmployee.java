@@ -10,10 +10,8 @@ import lombok.*;
 @ToString
 //@Builder
 @Entity
-@Table(name = "full_time_emp")
+//@DiscriminatorValue("fte")
 public class FullTimeEmployee extends Employee {
-    @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "salary")
     private int salary;
 }

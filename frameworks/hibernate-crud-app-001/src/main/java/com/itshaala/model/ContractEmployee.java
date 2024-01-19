@@ -10,10 +10,8 @@ import lombok.*;
 @ToString
 //@Builder
 @Entity
-@Table(name = "contract_employee")
-public class ContractEmployee extends Employee{
-    @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+//@DiscriminatorValue("c2h")
+public class ContractEmployee extends Employee {
     @Column(name = "invoice_amount")
     private int invoiceAmount;
 }

@@ -18,4 +18,11 @@ public class EmployeeDao {
     }
 
 
+    public Employee getEmployee(int id) {
+        SessionFactory sessionFactory = HibernateUtil.getSessionFactory();
+        Session session = sessionFactory.openSession();
+        Employee employee = session.get(Employee.class, id);
+        session.close();
+        return employee;
+    }
 }
