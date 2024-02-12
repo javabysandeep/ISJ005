@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<bean class="com.itshaala.Course" name="courseReference">
+    <!--<property name="courseId" value="101"/>
+    <property name="courseName" value="Spring Framework"/>
+    <property name="coursePrice" value="99"/>
+    <property name="courseContent" value="Core, MVC, Boot"/>-->
+
+    <constructor-arg value="101" />
+    <constructor-arg value="Spring Framework" />
+    <constructor-arg value="99" />
+    <constructor-arg value="Core, MVC, REST, BOOT" />
+
+
+</bean>
+
+</beans>

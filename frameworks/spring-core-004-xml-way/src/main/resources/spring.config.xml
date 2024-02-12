@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean class="com.itshaala.Course" name="course" scope="singleton">
+        <property name="courseId" value="101"/>
+        <property name="courseName" value="Spring"/>
+        <property name="courseContent" value="Spring Core, Spring MVC"/>
+    </bean>
+
+</beans>
