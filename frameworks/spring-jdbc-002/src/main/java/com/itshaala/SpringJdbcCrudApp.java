@@ -16,8 +16,8 @@ public class SpringJdbcCrudApp {
     public static void main(String[] args) {
         ApplicationContext applicationContext = new AnnotationConfigApplicationContext(SpringConfiguration.class);
         ExpenseController expenseController = applicationContext.getBean(ExpenseController.class);
-        /*expenseController.addExpense(Expense.builder()
-                .id(1005)
+/*        expenseController.addExpense(Expense.builder()
+                .id(1006)
                 .expense("Cloud Bills")
                 .amount(1799)
                 .dateTime(Date.valueOf(LocalDate.now()))
@@ -32,7 +32,9 @@ public class SpringJdbcCrudApp {
                 .description("GCP")
                 .build());*/
         //System.out.println(expenseController.getExpenseById(1002));
-        expenseController.deleteExpense(1002);
+      //  expenseController.deleteExpense(1002);
         // expenseController.getAllExpenses().forEach(System.out::println);
+        //System.out.println(expenseController.getExpenseById(1006));
+        expenseController.getAllExpenses().forEach(System.out::println);
     }
 }
