@@ -15,4 +15,16 @@ public class StudentService {
     public List<Student> getAllStudents() {
         return studentDao.getAllStudents();
     }
+
+    public List<Student> getAllStudentsByName(String name) {
+        return studentDao.getAllStudentsByName(name);
+    }
+
+    public Student getStudentById(int id) {
+        return studentDao.getStudentById(id);
+    }
+
+    public List<Student> getAllStudentsByAllFields(Student student) {
+        return studentDao.getAllStudentsByAllFields(student);
+    }
 }
