@@ -1,7 +1,7 @@
-package com.itshaala.controller;
+package com.itshaala.springboot001.controller;
 
-import com.itshaala.model.Student;
-import com.itshaala.service.StudentService;
+import com.itshaala.springboot001.model.Student;
+import com.itshaala.springboot001.service.StudentService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
