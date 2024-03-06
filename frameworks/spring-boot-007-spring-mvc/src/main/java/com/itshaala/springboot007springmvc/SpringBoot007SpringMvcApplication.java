@@ -6,8 +6,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringBoot007SpringMvcApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringBoot007SpringMvcApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SpringBoot007SpringMvcApplication.class, args);
+        display();
+    }
+
+    public static void display() {
+        System.out.println("application: display()");
+    }
 
 }
